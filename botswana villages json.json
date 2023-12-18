@@ -1,0 +1,2014 @@
+{
+  "TABLE 1": {
+    "__1": "",
+    "__2": ""
+  },
+  "": {
+    "__1": "",
+    "__2": ""
+  },
+  "Village": {
+    "__1": "District",
+    "__2": "Total"
+  },
+  "40-15 Artisia": {
+    "__1": "Kgatleng",
+    "__2": "2,365"
+  },
+  "71-03 Beetsha": {
+    "__1": "Ngamiland West",
+    "__2": 941
+  },
+  "80-16 : Bere": {
+    "__1": "Ghanzi",
+    "__2": 559
+  },
+  "10-39 Betesankwe": {
+    "__1": "Ngwaketse",
+    "__2": 389
+  },
+  "11-06 : Bethel": {
+    "__1": "Barolong",
+    "__2": 404
+  },
+  "30-18 Boatlaname": {
+    "__1": "Kweneng East",
+    "__2": "1,049"
+  },
+  "52-01 Bobonong": {
+    "__1": "Central Bobonong",
+    "__2": "19,389"
+  },
+  "70-28 : Bodibeng": {
+    "__1": "Ngamiland East",
+    "__2": 778
+  },
+  "90-07 Bogogobo": {
+    "__1": "Kgalagadi South",
+    "__2": 360
+  },
+  "40-04 Bokaa :": {
+    "__1": "Kgatleng",
+    "__2": "5,680"
+  },
+  "90-13 : Bokspits": {
+    "__1": "Kgalagadi South",
+    "__2": 507
+  },
+  "51-15 Bonwapitse": {
+    "__1": "Central Mahalapye",
+    "__2": 635
+  },
+  "11-14 : Borobadilepe": {
+    "__1": "Barolong",
+    "__2": 330
+  },
+  "54-19 : Borolong": {
+    "__1": "Central Tutume",
+    "__2": "5,184"
+  },
+  "51-24 Borotsi": {
+    "__1": "Central Mahalapye",
+    "__2": "2,443"
+  },
+  "60-36 Botalaote": {
+    "__1": "North East",
+    "__2": 173
+  },
+  "31-02 Botlhapatlou": {
+    "__1": "Kweneng West",
+    "__2": "1,223"
+  },
+  "70-29 Botlhatlogo": {
+    "__1": "Ngamiland East",
+    "__2": 555
+  },
+  "90-23 : Bray": {
+    "__1": "Kgalagadi South",
+    "__2": "1,041"
+  },
+  "60-31 Butale": {
+    "__1": "North East",
+    "__2": 549
+  },
+  "51-14 Chadibe": {
+    "__1": "Central Mahalapye",
+    "__2": "2,973"
+  },
+  "54-17 Chadibe": {
+    "__1": "Central Tutume",
+    "__2": "4,939"
+  },
+  "54-06 : Changate": {
+    "__1": "Central Tutume",
+    "__2": "1,169"
+  },
+  "70-24 : Chanoga": {
+    "__1": "Ngamiland East",
+    "__2": 347
+  },
+  "80-07 : Charles Hill": {
+    "__1": "Ghanzi",
+    "__2": "3,591"
+  },
+  "80-05 Chobokwane": {
+    "__1": "Ghanzi",
+    "__2": 771
+  },
+  "71-36 Chukumuchu": {
+    "__1": "Ngamiland West",
+    "__2": 161
+  },
+  "54-03 : Dagwi": {
+    "__1": "Central Tutume",
+    "__2": 454
+  },
+  "52-15 : Damochojena": {
+    "__1": "Central Bobonong",
+    "__2": 993
+  },
+  "73-07 Daonara": {
+    "__1": "Ngamiland Delta",
+    "__2": 35
+  },
+  "80-02 Dekar": {
+    "__1": "Ghanzi",
+    "__2": "1,668"
+  },
+  "10-23 Diabo": {
+    "__1": "Ngwaketse",
+    "__2": 285
+  },
+  "51-06 Dibete Station": {
+    "__1": "Central Mahalapye",
+    "__2": "1,083"
+  },
+  "11-30 : Digawana": {
+    "__1": "Barolong",
+    "__2": "3,296"
+  },
+  "30-47 : Dikgatlhong": {
+    "__1": "Kweneng East",
+    "__2": 204
+  },
+  "40-20 : Dikgonnye": {
+    "__1": "Kgatleng",
+    "__2": 431
+  },
+  "11-41 Dikhukhung": {
+    "__1": "Barolong",
+    "__2": 279
+  },
+  "40-22 : Dikwididi": {
+    "__1": "Kgatleng",
+    "__2": 225
+  },
+  "50-11 Diloro": {
+    "__1": "Serowe Palapye",
+    "__2": 509
+  },
+  "50-44 : Dimajwe": {
+    "__1": "Serowe Palapye",
+    "__2": "1,423"
+  },
+  "11-07 Dinatshana": {
+    "__1": "Barolong",
+    "__2": 603
+  },
+  "31-23 Diphuduhudu": {
+    "__1": "Kweneng West",
+    "__2": 535
+  },
+  "10-22 Dipotsana": {
+    "__1": "Ngwaketse",
+    "__2": 124
+  },
+  "60-35 Ditladi": {
+    "__1": "North East",
+    "__2": "1,344"
+  },
+  "11-23 Ditlharapa": {
+    "__1": "Barolong",
+    "__2": 653
+  },
+  "31-03 : Ditshegwane": {
+    "__1": "Kweneng West",
+    "__2": "2,114"
+  },
+  "73-09 : Ditshiping": {
+    "__1": "Ngamiland Delta",
+    "__2": 139
+  },
+  "30-42 Ditshukudu": {
+    "__1": "Kweneng East",
+    "__2": 184
+  },
+  "51-07 Dovedale": {
+    "__1": "Central Mahalapye",
+    "__2": 832
+  },
+  "54-20 Dukwi": {
+    "__1": "Central Tutume",
+    "__2": "3,438"
+  },
+  "31-04 Dutlwe": {
+    "__1": "Kweneng West",
+    "__2": "1,055"
+  },
+  "80-14 East Hanahai": {
+    "__1": "Ghanzi",
+    "__2": 532
+  },
+  "71-35 Eretsha": {
+    "__1": "Ngamiland West",
+    "__2": 720
+  },
+  "71-41 Etsha 1": {
+    "__1": "Ngamiland West",
+    "__2": 965
+  },
+  "71-19 Etsha 13": {
+    "__1": "Ngamiland West",
+    "__2": "2,377"
+  },
+  "71-12 Etsha 6 :": {
+    "__1": "Ngamiland West",
+    "__2": "3,130"
+  },
+  "TABLE 2": {
+    "__1": "",
+    "__2": ""
+  },
+  "30-07 Gabane": {
+    "__1": "Kweneng East",
+    "__2": "15,237"
+  },
+  "90-10 Gachibana": {
+    "__1": "Kgalagadi South",
+    "__2": 746
+  },
+  "30-04 : Gakgatla": {
+    "__1": "Kweneng East",
+    "__2": 654
+  },
+  "30-46 Gakutlo": {
+    "__1": "Kweneng East",
+    "__2": "1,350"
+  },
+  "50-31 Gamabuo": {
+    "__1": "Serowe Palapye",
+    "__2": 744
+  },
+  "11-40 Gamajalela": {
+    "__1": "Barolong",
+    "__2": 437
+  },
+  "60-03 : Gambule": {
+    "__1": "North East",
+    "__2": 482
+  },
+  "30-05 Gamodubu": {
+    "__1": "Kweneng East",
+    "__2": 501
+  },
+  "71-22 : Gani": {
+    "__1": "Ngamiland West",
+    "__2": 727
+  },
+  "10-05 Gasita": {
+    "__1": "Ngwaketse",
+    "__2": "1,063"
+  },
+  "11-29 Gathwane": {
+    "__1": "Barolong",
+    "__2": 879
+  },
+  "80-01 Ghanzi": {
+    "__1": "Ghanzi",
+    "__2": "14,809"
+  },
+  "50-42 : Gojwane": {
+    "__1": "Serowe Palapye",
+    "__2": "1,411"
+  },
+  "71-04 : Gonutsuga": {
+    "__1": "Ngamiland West",
+    "__2": 635
+  },
+  "50-21 Goo - Sekgweng": {
+    "__1": "Serowe Palapye",
+    "__2": 563
+  },
+  "11-10 Good Hope": {
+    "__1": "Barolong",
+    "__2": "6,362"
+  },
+  "50-20 : Gootau": {
+    "__1": "Serowe Palapye",
+    "__2": "1,401"
+  },
+  "54-09 Goshwe": {
+    "__1": "Central Tutume",
+    "__2": "1,573"
+  },
+  "80-12 : Groote Laagte": {
+    "__1": "Ghanzi",
+    "__2": 849
+  },
+  "71-40 : Gudingwa": {
+    "__1": "Ngamiland West",
+    "__2": 725
+  },
+  "60-04 Gulubane": {
+    "__1": "North East",
+    "__2": 797
+  },
+  "71-26 Gumare": {
+    "__1": "Ngamiland West",
+    "__2": "8,532"
+  },
+  "60-05 : Gungwe": {
+    "__1": "North East",
+    "__2": 545
+  },
+  "54-30 Gweta": {
+    "__1": "Central Tutume",
+    "__2": "5,304"
+  },
+  "70-32 : Habu": {
+    "__1": "Ngamiland East",
+    "__2": 533
+  },
+  "30-09 Hatsalatladi": {
+    "__1": "Kweneng East",
+    "__2": 726
+  },
+  "11-15 Hebron": {
+    "__1": "Barolong",
+    "__2": 950
+  },
+  "91-03 Hukuntsi": {
+    "__1": "Kgalagadi North",
+    "__2": "4,654"
+  },
+  "91-08 Hunhukwe": {
+    "__1": "Kgalagadi North",
+    "__2": 753
+  },
+  "71-13 : Ikoga": {
+    "__1": "Ngamiland West",
+    "__2": 673
+  },
+  "51-32 Ikongwe": {
+    "__1": "Central Mahalapye",
+    "__2": 533
+  },
+  "91-13 Inalegolo": {
+    "__1": "Kgalagadi North",
+    "__2": 533
+  },
+  "12-10 Itholoke": {
+    "__1": "Ngwaketse West",
+    "__2": 497
+  },
+  "60-06 : Jackalas 1": {
+    "__1": "North East",
+    "__2": "1,093"
+  },
+  "60-07 Jackalas No 2": {
+    "__1": "North East",
+    "__2": "1,222"
+  },
+  "54-38 Jamataka": {
+    "__1": "Central Tutume",
+    "__2": 650
+  },
+  "73-02 : Jao": {
+    "__1": "Ngamiland Delta",
+    "__2": 229
+  },
+  "80-15 : Kacgae": {
+    "__1": "Ghanzi",
+    "__2": 634
+  },
+  "72-01 Kachikau": {
+    "__1": "Chobe",
+    "__2": "1,356"
+  },
+  "71-42 : Kajaja": {
+    "__1": "Ngamiland West",
+    "__2": 31
+  },
+  "60-08 Kalakamati": {
+    "__1": "North East",
+    "__2": 858
+  },
+  "51-26 Kalamare :": {
+    "__1": "Central Mahalapye",
+    "__2": "2,196"
+  },
+  "12-08 Kanaku": {
+    "__1": "Ngwaketse West",
+    "__2": 188
+  },
+  "91-01 : Kang": {
+    "__1": "Kgalagadi North",
+    "__2": "5,985"
+  },
+  "11-51 : Kangwe": {
+    "__1": "Barolong",
+    "__2": 210
+  },
+  "10-01 : Kanye": {
+    "__1": "Ngwaketse",
+    "__2": "47,007"
+  },
+  "80-04 Karakobis": {
+    "__1": "Ghanzi",
+    "__2": 881
+  },
+  "70-07 : Kareng": {
+    "__1": "Ngamiland East",
+    "__2": "1,259"
+  },
+  "72-02 Kasane": {
+    "__1": "Chobe",
+    "__2": "9,008"
+  },
+  "73-06 : Katamaga": {
+    "__1": "Ngamiland Delta",
+    "__2": 42
+  },
+  "31-22 Kaudwane": {
+    "__1": "Kweneng West",
+    "__2": "1,084"
+  },
+  "71-11 Kaux whi": {
+    "__1": "Ngamiland West",
+    "__2": "2,040"
+  },
+  "72-04 : Kavimba": {
+    "__1": "Chobe",
+    "__2": 549
+  },
+  "72-03 : Kazungula": {
+    "__1": "Chobe",
+    "__2": "4,133"
+  },
+  "53-06 Kedia :": {
+    "__1": "Central Boteti",
+    "__2": "1,237"
+  },
+  "12-05 : Keng": {
+    "__1": "Ngwaketse West",
+    "__2": 992
+  },
+  "TABLE 3": {
+    "__1": "",
+    "__2": ""
+  },
+  "50-08 : Kgagodi": {
+    "__1": "Serowe Palapye",
+    "__2": "1,756"
+  },
+  "70-31 Kgakge / Makakung": {
+    "__1": "Ngamiland East",
+    "__2": 279
+  },
+  "60-41 Kgari": {
+    "__1": "North East",
+    "__2": 534
+  },
+  "40-19 : Kgomodiatshaba": {
+    "__1": "Kgatleng",
+    "__2": 418
+  },
+  "10-09 Kgomokasitwa": {
+    "__1": "Ngwaketse",
+    "__2": "1,423"
+  },
+  "30-39 : Kgope": {
+    "__1": "Kweneng East",
+    "__2": 368
+  },
+  "11-25 Kgoro": {
+    "__1": "Barolong",
+    "__2": 711
+  },
+  "12-06 : Khakhea": {
+    "__1": "Ngwaketse West",
+    "__2": "2,944"
+  },
+  "90-03 Khisa": {
+    "__1": "Kgalagadi South",
+    "__2": 383
+  },
+  "12-04 : Khonkhwa": {
+    "__1": "Ngwaketse West",
+    "__2": 475
+  },
+  "31-06 : Khudumelapye": {
+    "__1": "Kweneng West",
+    "__2": "2,080"
+  },
+  "90-09 Khuis": {
+    "__1": "Kgalagadi South",
+    "__2": 897
+  },
+  "40-21 Khurutshe": {
+    "__1": "Kgatleng",
+    "__2": 130
+  },
+  "90-26 Khwawa": {
+    "__1": "Kgalagadi South",
+    "__2": 817
+  },
+  "53-11 Khwee": {
+    "__1": "Central Boteti",
+    "__2": "1,196"
+  },
+  "52-07 Kobojango :": {
+    "__1": "Central Bobonong",
+    "__2": "2,138"
+  },
+  "51-31 Kodibeleng": {
+    "__1": "Central Mahalapye",
+    "__2": "1,298"
+  },
+  "12-07 : Kokong": {
+    "__1": "Ngwaketse West",
+    "__2": 928
+  },
+  "90-33 Kokotsha": {
+    "__1": "Kgalagadi South",
+    "__2": "1,224"
+  },
+  "90-06 : Kolonkwane": {
+    "__1": "Kgalagadi South",
+    "__2": 599
+  },
+  "70-21 Komana": {
+    "__1": "Ngamiland East",
+    "__2": 232
+  },
+  "30-12 : Kopong": {
+    "__1": "Kweneng East",
+    "__2": "9,312"
+  },
+  "31-20 Kotolaname": {
+    "__1": "Kweneng West",
+    "__2": 596
+  },
+  "30-36 : Kubung": {
+    "__1": "Kweneng East",
+    "__2": 881
+  },
+  "51-08 Kudumatse": {
+    "__1": "Central Mahalapye",
+    "__2": "2,030"
+  },
+  "80-10 : Kule": {
+    "__1": "Ghanzi",
+    "__2": 807
+  },
+  "53-12 : Kumaga": {
+    "__1": "Central Boteti",
+    "__2": 758
+  },
+  "30-14 Kumakwane": {
+    "__1": "Kweneng East",
+    "__2": "5,545"
+  },
+  "54-46 : Kutamogree": {
+    "__1": "Central Tutume",
+    "__2": "1,035"
+  },
+  "12-11 Kutuku": {
+    "__1": "Ngwaketse West",
+    "__2": 166
+  },
+  "30-41 : Kweneng": {
+    "__1": "Kweneng East",
+    "__2": 570
+  },
+  "50-03 Lecheng": {
+    "__1": "Serowe Palapye",
+    "__2": "3,344"
+  },
+  "10-07 Lefoko": {
+    "__1": "Ngwaketse",
+    "__2": 534
+  },
+  "91-04 Lehututu": {
+    "__1": "Kgalagadi North",
+    "__2": "1,956"
+  },
+  "11-32 Lejwana": {
+    "__1": "Barolong",
+    "__2": 621
+  },
+  "10-12 Lekgolobotlo": {
+    "__1": "Ngwaketse",
+    "__2": "1,177"
+  },
+  "52-05 Lentswelemoriti": {
+    "__1": "Central Bobonong",
+    "__2": 243
+  },
+  "30-02 Lentsweletau": {
+    "__1": "Kweneng East",
+    "__2": "4,916"
+  },
+  "30-45 Leologane": {
+    "__1": "Kweneng East",
+    "__2": 823
+  },
+  "54-32 : Lepashe": {
+    "__1": "Central Tutume",
+    "__2": 544
+  },
+  "30-15 : Lephephe": {
+    "__1": "Kweneng East",
+    "__2": 696
+  },
+  "52-08 : Lepokole": {
+    "__1": "Central Bobonong",
+    "__2": 955
+  },
+  "11-42 : Leporung": {
+    "__1": "Barolong",
+    "__2": 575
+  },
+  "50-16 Lerala :": {
+    "__1": "Serowe Palapye",
+    "__2": "6,871"
+  },
+  "50-12 Lesenepole / Matolwane": {
+    "__1": "Serowe Palapye",
+    "__2": "3,048"
+  },
+  "40-17 Leshibitse": {
+    "__1": "Kgatleng",
+    "__2": 545
+  },
+  "72-05 Lesoma": {
+    "__1": "Chobe",
+    "__2": 613
+  },
+  "53-01 Letlhakane": {
+    "__1": "Central Boteti",
+    "__2": "22,911"
+  },
+  "31-01 Letlhakeng": {
+    "__1": "Kweneng West",
+    "__2": "7,229"
+  },
+  "60-09 Letsholathebe": {
+    "__1": "North East",
+    "__2": 613
+  },
+  "11-16 : Logagane": {
+    "__1": "Barolong",
+    "__2": 428
+  },
+  "91-05 : Lokgwabe": {
+    "__1": "Kgalagadi North",
+    "__2": "1,417"
+  },
+  "10-06 Lorolwana": {
+    "__1": "Ngwaketse",
+    "__2": "1,568"
+  },
+  "11-48 Lorwana": {
+    "__1": "Barolong",
+    "__2": "1,177"
+  },
+  "30-37 : Losilakgokong": {
+    "__1": "Kweneng East",
+    "__2": 208
+  },
+  "10-14 Lotlhakane": {
+    "__1": "Ngwaketse",
+    "__2": "4,828"
+  },
+  "TABLE 4": {
+    "__1": "",
+    "__2": ""
+  },
+  "10-03 Lotlhakane West": {
+    "__1": "Ngwaketse",
+    "__2": "1,637"
+  },
+  "51-21 : Maape": {
+    "__1": "Central Mahalapye",
+    "__2": "1,319"
+  },
+  "70-23 : Mababe": {
+    "__1": "Ngamiland East",
+    "__2": 230
+  },
+  "40-09 : Mabalane": {
+    "__1": "Kgatleng",
+    "__2": 738
+  },
+  "50-25 Mabeleapudi": {
+    "__1": "Serowe Palapye",
+    "__2": "2,247"
+  },
+  "54-37 : Mabesekwa": {
+    "__1": "Central Tutume",
+    "__2": "1,528"
+  },
+  "31-17 Maboane": {
+    "__1": "Kweneng West",
+    "__2": "1,085"
+  },
+  "52-12 Mabolwe": {
+    "__1": "Central Bobonong",
+    "__2": 701
+  },
+  "60-43 Mabudzane": {
+    "__1": "North East",
+    "__2": 563
+  },
+  "11-44 Mabule": {
+    "__1": "Barolong",
+    "__2": "2,260"
+  },
+  "12-01 Mabutsane": {
+    "__1": "Ngwaketse West",
+    "__2": "2,386"
+  },
+  "51-12 Machaneng": {
+    "__1": "Central Mahalapye",
+    "__2": "2,537"
+  },
+  "11-24 : Madingwana": {
+    "__1": "Barolong",
+    "__2": 310
+  },
+  "54-21 : Mafongo / Hobona": {
+    "__1": "Central Tutume",
+    "__2": "1,151"
+  },
+  "11-31 : Magoriapitse": {
+    "__1": "Barolong",
+    "__2": 846
+  },
+  "10-18 Magotlhwane": {
+    "__1": "Ngwaketse",
+    "__2": "1,433"
+  },
+  "51-01 Mahalapye": {
+    "__1": "Central Mahalapye",
+    "__2": "43,289"
+  },
+  "30-03 Mahetlwe": {
+    "__1": "Kweneng East",
+    "__2": 610
+  },
+  "12-09 Mahotshwane": {
+    "__1": "Ngwaketse West",
+    "__2": 861
+  },
+  "54-01 Maitengwe": {
+    "__1": "Central Tutume",
+    "__2": "5,890"
+  },
+  "50-45 : Majwanaadipitse": {
+    "__1": "Serowe Palapye",
+    "__2": 638
+  },
+  "50-17 : Majwaneng": {
+    "__1": "Serowe Palapye",
+    "__2": "1,903"
+  },
+  "70-02 Makalamabedi": {
+    "__1": "Ngamiland East",
+    "__2": "1,010"
+  },
+  "53-10 Makalamabedi": {
+    "__1": "Central Boteti",
+    "__2": "1,674"
+  },
+  "60-10 Makaleng": {
+    "__1": "North East",
+    "__2": "1,256"
+  },
+  "91-12 : Make": {
+    "__1": "Kgalagadi North",
+    "__2": 398
+  },
+  "54-36 Makobo": {
+    "__1": "Central Tutume",
+    "__2": "1,268"
+  },
+  "11-18 Makokwe": {
+    "__1": "Barolong",
+    "__2": 137
+  },
+  "90-02 : Makopong": {
+    "__1": "Kgalagadi South",
+    "__2": "1,697"
+  },
+  "80-09 Makunda": {
+    "__1": "Ghanzi",
+    "__2": 674
+  },
+  "54-44 Makuta": {
+    "__1": "Central Tutume",
+    "__2": "1,014"
+  },
+  "51-09 Makwate": {
+    "__1": "Central Mahalapye",
+    "__2": "1,611"
+  },
+  "50-05 Malaka": {
+    "__1": "Serowe Palapye",
+    "__2": "1,044"
+  },
+  "50-37 Malatswai": {
+    "__1": "Serowe Palapye",
+    "__2": "1,482"
+  },
+  "90-35 Maleshe": {
+    "__1": "Kgalagadi South",
+    "__2": 462
+  },
+  "11-05 : Malokaganyane": {
+    "__1": "Barolong",
+    "__2": 341
+  },
+  "40-13 : Malolwane": {
+    "__1": "Kgatleng",
+    "__2": "2,406"
+  },
+  "40-16 Malotwana Siding": {
+    "__1": "Kgatleng",
+    "__2": 608
+  },
+  "31-16 Malwelwe": {
+    "__1": "Kweneng West",
+    "__2": "1,146"
+  },
+  "60-12 Mambo": {
+    "__1": "North East",
+    "__2": 569
+  },
+  "50-43 Manaledi": {
+    "__1": "Serowe Palapye",
+    "__2": 258
+  },
+  "54-25 : Mandunyane": {
+    "__1": "Central Tutume",
+    "__2": "3,589"
+  },
+  "31-08 Mantshwabisi": {
+    "__1": "Kweneng West",
+    "__2": 942
+  },
+  "10-20 : Manyana": {
+    "__1": "Ngwaketse",
+    "__2": "3,550"
+  },
+  "10-21 Maokane": {
+    "__1": "Ngwaketse",
+    "__2": "2,044"
+  },
+  "60-13 : Mapoka": {
+    "__1": "North East",
+    "__2": "1,789"
+  },
+  "54-45 : Maposa": {
+    "__1": "Central Tutume",
+    "__2": 413
+  },
+  "90-34 : Maralaleng": {
+    "__1": "Kgalagadi South",
+    "__2": 586
+  },
+  "54-16 Marapong": {
+    "__1": "Central Tutume",
+    "__2": "2,283"
+  },
+  "31-24 Maratshwane": {
+    "__1": "Kweneng West",
+    "__2": 305
+  },
+  "54-14 Marobela": {
+    "__1": "Central Tutume",
+    "__2": "1,672"
+  },
+  "11-19 Marojane": {
+    "__1": "Barolong",
+    "__2": 402
+  },
+  "60-14 : Masingwaneng": {
+    "__1": "North East",
+    "__2": 677
+  },
+  "60-32 Masukwane": {
+    "__1": "North East",
+    "__2": 630
+  },
+  "60-15 Masunga": {
+    "__1": "North East",
+    "__2": "5,666"
+  },
+  "40-06 : Matebeleng": {
+    "__1": "Kgatleng",
+    "__2": "2,196"
+  },
+  "TABLE 5": {
+    "__1": "",
+    "__2": ""
+  },
+  "60-38 : Matenge": {
+    "__1": "North East",
+    "__2": 422
+  },
+  "54-15 Mathangwane": {
+    "__1": "Central Tutume",
+    "__2": "5,075"
+  },
+  "52-04 Mathathane :": {
+    "__1": "Central Bobonong",
+    "__2": "2,672"
+  },
+  "70-19 : Matlapana": {
+    "__1": "Ngamiland East",
+    "__2": "1,449"
+  },
+  "51-35 Matlhako": {
+    "__1": "Central Mahalapye",
+    "__2": 752
+  },
+  "50-22 Matlhakola": {
+    "__1": "Serowe Palapye",
+    "__2": 996
+  },
+  "54-08 Matobo": {
+    "__1": "Central Tutume",
+    "__2": "1,136"
+  },
+  "60-44 : Matopi": {
+    "__1": "North East",
+    "__2": 361
+  },
+  "70-08 : Matsaudi / Sakapane": {
+    "__1": "Ngamiland East",
+    "__2": 345
+  },
+  "60-34 Matshelagabedi": {
+    "__1": "North East",
+    "__2": "2,871"
+  },
+  "60-16 : Matsiloje": {
+    "__1": "North East",
+    "__2": "2,380"
+  },
+  "54-18 Matsitama": {
+    "__1": "Central Tutume",
+    "__2": "1,309"
+  },
+  "90-25 Maubelo": {
+    "__1": "Kgalagadi South",
+    "__2": 514
+  },
+  "70-01 Maun": {
+    "__1": "Ngamiland East",
+    "__2": "60,263"
+  },
+  "50-09 Maunatlala": {
+    "__1": "Serowe Palapye",
+    "__2": "4,552"
+  },
+  "60-01 Mbalambi": {
+    "__1": "North East",
+    "__2": "1,037"
+  },
+  "30-48 Medie": {
+    "__1": "Kweneng East",
+    "__2": 424
+  },
+  "11-47 Metlobo": {
+    "__1": "Barolong",
+    "__2": 891
+  },
+  "11-13 : Metlojane": {
+    "__1": "Barolong",
+    "__2": 726
+  },
+  "31-21 Metsibotlhoko": {
+    "__1": "Kweneng West",
+    "__2": 403
+  },
+  "30-21 Metsimotlhabe": {
+    "__1": "Kweneng East",
+    "__2": "8,884"
+  },
+  "51-23 Mhalapitsa": {
+    "__1": "Central Mahalapye",
+    "__2": "1,019"
+  },
+  "90-08 Middlepits": {
+    "__1": "Kgalagadi South",
+    "__2": "1,121"
+  },
+  "53-14 Mmadikola": {
+    "__1": "Central Boteti",
+    "__2": 830
+  },
+  "52-13 Mmadinare": {
+    "__1": "Central Bobonong",
+    "__2": "12,086"
+  },
+  "11-43 : Mmakgori": {
+    "__1": "Barolong",
+    "__2": 741
+  },
+  "30-22 : Mmankgodi": {
+    "__1": "Kweneng East",
+    "__2": "6,802"
+  },
+  "30-35 Mmanoko": {
+    "__1": "Kweneng East",
+    "__2": 932
+  },
+  "54-33 Mmanxotae": {
+    "__1": "Central Tutume",
+    "__2": 643
+  },
+  "51-04 Mmaphashalala :": {
+    "__1": "Central Mahalapye",
+    "__2": "1,044"
+  },
+  "50-27 Mmashoro": {
+    "__1": "Serowe Palapye",
+    "__2": "2,834"
+  },
+  "11-34 Mmathethe": {
+    "__1": "Barolong",
+    "__2": "5,078"
+  },
+  "40-11 Mmathubudukwane": {
+    "__1": "Kgatleng",
+    "__2": "2,203"
+  },
+  "30-44 Mmatseta": {
+    "__1": "Kweneng East",
+    "__2": 474
+  },
+  "53-03 Mmatshumo": {
+    "__1": "Central Boteti",
+    "__2": "1,122"
+  },
+  "54-47 : Mmeya": {
+    "__1": "Central Tutume",
+    "__2": 752
+  },
+  "30-23 : Mmopane": {
+    "__1": "Kweneng East",
+    "__2": "15,450"
+  },
+  "51-16 Mmutlana": {
+    "__1": "Central Mahalapye",
+    "__2": 854
+  },
+  "40-01 Mochudi": {
+    "__1": "Kgatleng",
+    "__2": "44,815"
+  },
+  "40-08 : Modipane": {
+    "__1": "Kgatleng",
+    "__2": "3,197"
+  },
+  "50-19 : Moeng": {
+    "__1": "Serowe Palapye",
+    "__2": 11
+  },
+  "50-06 : Mogapi": {
+    "__1": "Serowe Palapye",
+    "__2": "1,939"
+  },
+  "50-07 Mogapinyana": {
+    "__1": "Serowe Palapye",
+    "__2": "1,528"
+  },
+  "20-05 : Mogobane": {
+    "__1": "South East",
+    "__2": "2,400"
+  },
+  "30-24 : Mogoditshane": {
+    "__1": "Kweneng East",
+    "__2": "58,079"
+  },
+  "11-33 Mogojogojo": {
+    "__1": "Barolong",
+    "__2": 619
+  },
+  "50-33 : Mogome": {
+    "__1": "Serowe Palapye",
+    "__2": 540
+  },
+  "71-33 : Mogomotho": {
+    "__1": "Ngamiland West",
+    "__2": 843
+  },
+  "30-40 Mogonono": {
+    "__1": "Kweneng East",
+    "__2": 349
+  },
+  "10-38 Mogonye": {
+    "__1": "Ngwaketse",
+    "__2": 577
+  },
+  "50-28 Mogorosi": {
+    "__1": "Serowe Palapye",
+    "__2": "2,716"
+  },
+  "11-28 : Mogwalale": {
+    "__1": "Barolong",
+    "__2": 305
+  },
+  "71-28 Mohembo East": {
+    "__1": "Ngamiland West",
+    "__2": 550
+  },
+  "71-18 Mohembo West": {
+    "__1": "Ngamiland West",
+    "__2": "1,770"
+  },
+  "50-30 : Moiyabana": {
+    "__1": "Serowe Palapye",
+    "__2": "3,571"
+  },
+  "11-11 : Mokatako": {
+    "__1": "Barolong",
+    "__2": "1,018"
+  },
+  "TABLE 6": {
+    "__1": "",
+    "__2": ""
+  },
+  "71-05 : Mokgacha": {
+    "__1": "Ngamiland West",
+    "__2": 354
+  },
+  "51-27 : Mokgenene": {
+    "__1": "Central Mahalapye",
+    "__2": 835
+  },
+  "11-35 Mokgomane": {
+    "__1": "Barolong",
+    "__2": 708
+  },
+  "50-34 : Mokgware": {
+    "__1": "Serowe Palapye",
+    "__2": 334
+  },
+  "10-11 Mokhomba": {
+    "__1": "Ngwaketse",
+    "__2": 959
+  },
+  "50-38 Mokhungwana": {
+    "__1": "Serowe Palapye",
+    "__2": 260
+  },
+  "51-17 : Mokobeng": {
+    "__1": "Central Mahalapye",
+    "__2": "2,535"
+  },
+  "53-15 Mokoboxane": {
+    "__1": "Central Boteti",
+    "__2": "1,594"
+  },
+  "50-14 Mokokwana": {
+    "__1": "Serowe Palapye",
+    "__2": 356
+  },
+  "30-43 Mokolodi": {
+    "__1": "Kweneng East",
+    "__2": 624
+  },
+  "51-36 Mokoswane": {
+    "__1": "Central Mahalapye",
+    "__2": 556
+  },
+  "54-22 Mokubilo": {
+    "__1": "Central Tutume",
+    "__2": "1,917"
+  },
+  "52-09 Molalatau": {
+    "__1": "Central Bobonong",
+    "__2": "2,396"
+  },
+  "10-26 : Molapowabojang": {
+    "__1": "Ngwaketse",
+    "__2": "7,520"
+  },
+  "30-01 Molepolole": {
+    "__1": "Kweneng East",
+    "__2": "66,466"
+  },
+  "11-22 Molete": {
+    "__1": "Barolong",
+    "__2": 331
+  },
+  "52-39 Moletemane": {
+    "__1": "Central Bobonong",
+    "__2": "1,664"
+  },
+  "91-06 : Monong": {
+    "__1": "Kgalagadi North",
+    "__2": 267
+  },
+  "31-15 Monwane": {
+    "__1": "Kweneng West",
+    "__2": 513
+  },
+  "51-03 Mookane": {
+    "__1": "Central Mahalapye",
+    "__2": "2,983"
+  },
+  "53-04 : Mopipi": {
+    "__1": "Central Boteti",
+    "__2": "3,912"
+  },
+  "51-29 Moralane": {
+    "__1": "Central Mahalapye",
+    "__2": 866
+  },
+  "50-04 Moremi": {
+    "__1": "Serowe Palapye",
+    "__2": 597
+  },
+  "50-41 Moreomabele": {
+    "__1": "Serowe Palapye",
+    "__2": 602
+  },
+  "53-09 Moreomaoto": {
+    "__1": "Central Boteti",
+    "__2": 518
+  },
+  "60-17 Moroka": {
+    "__1": "North East",
+    "__2": "1,692"
+  },
+  "73-12 Morutsha": {
+    "__1": "Ngamiland Delta",
+    "__2": 61
+  },
+  "40-05 Morwa": {
+    "__1": "Kgatleng",
+    "__2": "3,566"
+  },
+  "12-02 Morwamosu": {
+    "__1": "Ngwaketse West",
+    "__2": 696
+  },
+  "54-10 Mosetse": {
+    "__1": "Central Tutume",
+    "__2": "1,787"
+  },
+  "10-28 Moshaneng": {
+    "__1": "Ngwaketse",
+    "__2": "1,512"
+  },
+  "31-05 Moshaweng": {
+    "__1": "Kweneng West",
+    "__2": "1,222"
+  },
+  "51-11 Moshopha": {
+    "__1": "Central Mahalapye",
+    "__2": "1,373"
+  },
+  "10-29 Moshupa": {
+    "__1": "Ngwaketse",
+    "__2": "20,016"
+  },
+  "60-18 : Mosojane": {
+    "__1": "North East",
+    "__2": "1,210"
+  },
+  "51-30 Mosolotshane": {
+    "__1": "Central Mahalapye",
+    "__2": "2,017"
+  },
+  "53-02 : Mosu": {
+    "__1": "Central Boteti",
+    "__2": "1,792"
+  },
+  "50-13 : Mosweu": {
+    "__1": "Serowe Palapye",
+    "__2": 397
+  },
+  "52-17 Motlhabaneng": {
+    "__1": "Central Bobonong",
+    "__2": "1,456"
+  },
+  "31-09 Motokwe": {
+    "__1": "Kweneng West",
+    "__2": "1,413"
+  },
+  "53-13 : Motopi": {
+    "__1": "Central Boteti",
+    "__2": "1,340"
+  },
+  "11-27 Motsentshe": {
+    "__1": "Barolong",
+    "__2": 400
+  },
+  "50-36 Motshegaletau": {
+    "__1": "Serowe Palapye",
+    "__2": 958
+  },
+  "60-42 Mowana": {
+    "__1": "North East",
+    "__2": 481
+  },
+  "72-06 : Muchinje / Mabele": {
+    "__1": "Chobe",
+    "__2": 773
+  },
+  "60-11 Mulambakwena": {
+    "__1": "North East",
+    "__2": 974
+  },
+  "11-38 : Musi": {
+    "__1": "Barolong",
+    "__2": 296
+  },
+  "54-02 : Nata": {
+    "__1": "Central Tutume",
+    "__2": "6,714"
+  },
+  "54-26 Natale :": {
+    "__1": "Central Tutume",
+    "__2": "1,288"
+  },
+  "91-07 : Ncaang": {
+    "__1": "Kgalagadi North",
+    "__2": 228
+  },
+  "80-11 : Ncojane": {
+    "__1": "Ghanzi",
+    "__2": "1,958"
+  },
+  "80-18 New Xade": {
+    "__1": "Ghanzi",
+    "__2": "1,269"
+  },
+  "80-13 : New Xanagas": {
+    "__1": "Ghanzi",
+    "__2": 777
+  },
+  "71-02 : Ngarange": {
+    "__1": "Ngamiland West",
+    "__2": 988
+  },
+  "51-18 : Ngwapa": {
+    "__1": "Central Mahalapye",
+    "__2": 487
+  },
+  "31-10 : Ngware": {
+    "__1": "Kweneng West",
+    "__2": 919
+  },
+  "TABLE 7": {
+    "__1": "",
+    "__2": ""
+  },
+  "91-10 : Ngwatle": {
+    "__1": "Kgalagadi North",
+    "__2": 271
+  },
+  "11-08 Ngwatsau": {
+    "__1": "Barolong",
+    "__2": 393
+  },
+  "54-04 : Nkange": {
+    "__1": "Central Tutume",
+    "__2": "3,550"
+  },
+  "60-19 Nlakhwane": {
+    "__1": "North East",
+    "__2": "1,583"
+  },
+  "71-20 Nokaneng": {
+    "__1": "Ngamiland West",
+    "__2": "2,067"
+  },
+  "54-12 Nshakashokwe": {
+    "__1": "Central Tutume",
+    "__2": "2,168"
+  },
+  "54-11 Nswazwi :": {
+    "__1": "Central Tutume",
+    "__2": "2,185"
+  },
+  "10-30 Ntlhantlhe *": {
+    "__1": "Ngwaketse",
+    "__2": "2,342"
+  },
+  "71-15 Nxamasere": {
+    "__1": "Ngamiland West",
+    "__2": "1,584"
+  },
+  "71-17 : Nxaunxau": {
+    "__1": "Ngamiland West",
+    "__2": 400
+  },
+  "40-14 Oliphants Drift": {
+    "__1": "Kgatleng",
+    "__2": 925
+  },
+  "90-04 Omaweneno": {
+    "__1": "Kgalagadi South",
+    "__2": 917
+  },
+  "40-07 : Oodi": {
+    "__1": "Kgatleng",
+    "__2": "5,687"
+  },
+  "20-01 : Otse": {
+    "__1": "South East",
+    "__2": "7,661"
+  },
+  "51-34 : Otse": {
+    "__1": "Central Mahalapye",
+    "__2": "1,787"
+  },
+  "50-24 : Paje": {
+    "__1": "Serowe Palapye",
+    "__2": "2,507"
+  },
+  "50-02 : Palapye": {
+    "__1": "Serowe Palapye",
+    "__2": "37,256"
+  },
+  "51-02 Palla Road / Dinokwe": {
+    "__1": "Central Mahalapye",
+    "__2": "1,229"
+  },
+  "72-08 : Pandamatenga": {
+    "__1": "Chobe",
+    "__2": "1,798"
+  },
+  "11-20 : Papatlo": {
+    "__1": "Barolong",
+    "__2": 511
+  },
+  "72-07 : Parakarungu": {
+    "__1": "Chobe",
+    "__2": 845
+  },
+  "60-45 : Patayamatebele": {
+    "__1": "North East",
+    "__2": 349
+  },
+  "90-24 : Phepheng / Draaihoek": {
+    "__1": "Kgalagadi South",
+    "__2": 994
+  },
+  "11-21 Phihitshwane": {
+    "__1": "Barolong",
+    "__2": 682
+  },
+  "91-14 Phuduhudu": {
+    "__1": "Kgalagadi North",
+    "__2": 482
+  },
+  "70-20 : Phuduhudu": {
+    "__1": "Ngamiland East",
+    "__2": 564
+  },
+  "40-02 Pilane Station": {
+    "__1": "Kgatleng",
+    "__2": "1,795"
+  },
+  "51-22 Pilikwe": {
+    "__1": "Central Mahalapye",
+    "__2": "1,282"
+  },
+  "11-03 Pitsana - Potokwe": {
+    "__1": "Barolong",
+    "__2": 816
+  },
+  "11-01 Pitsane Siding": {
+    "__1": "Barolong",
+    "__2": "3,654"
+  },
+  "10-10 : Pitseng": {
+    "__1": "Ngwaketse",
+    "__2": "1,074"
+  },
+  "11-36 Pitshane Molopo": {
+    "__1": "Barolong",
+    "__2": "1,945"
+  },
+  "60-40 : Pole": {
+    "__1": "North East",
+    "__2": 288
+  },
+  "51-33 Poloka": {
+    "__1": "Central Mahalapye",
+    "__2": 743
+  },
+  "80-17 : Qabo": {
+    "__1": "Ghanzi",
+    "__2": 762
+  },
+  "71-09 : Qangwa": {
+    "__1": "Ngamiland West",
+    "__2": 683
+  },
+  "50-32 Radisele": {
+    "__1": "Serowe Palapye",
+    "__2": "2,985"
+  },
+  "11-04 Rakhuna": {
+    "__1": "Barolong",
+    "__2": "1,355"
+  },
+  "10-27 : Ralekgetho": {
+    "__1": "Ngwaketse",
+    "__2": 430
+  },
+  "30-11 : Ramaphatle": {
+    "__1": "Kweneng East",
+    "__2": 719
+  },
+  "11-09 : Ramatlabama": {
+    "__1": "Barolong",
+    "__2": "1,328"
+  },
+  "51-20 : Ramokgonami": {
+    "__1": "Central Mahalapye",
+    "__2": "4,486"
+  },
+  "60-20 : Ramokgwebana": {
+    "__1": "North East",
+    "__2": "1,548"
+  },
+  "40-12 : Ramonaka": {
+    "__1": "Kgatleng",
+    "__2": 573
+  },
+  "40-18 : Ramotlabaki": {
+    "__1": "Kgatleng",
+    "__2": 370
+  },
+  "20-04 Ramotswa": {
+    "__1": "South East",
+    "__2": "28,952"
+  },
+  "20-03 : Ramotswa station / Taung": {
+    "__1": "South East",
+    "__2": "4,250"
+  },
+  "10-02 Ranaka": {
+    "__1": "Ngwaketse",
+    "__2": "2,409"
+  },
+  "90-11 Rapples Pan": {
+    "__1": "Kgalagadi South",
+    "__2": 283
+  },
+  "40-03 Rasesa": {
+    "__1": "Kgatleng",
+    "__2": "3,933"
+  },
+  "50-18 Ratholo": {
+    "__1": "Serowe Palapye",
+    "__2": "2,236"
+  },
+  "52-14 Robelela": {
+    "__1": "Central Bobonong",
+    "__2": 829
+  },
+  "31-11 : Salajwe": {
+    "__1": "Kweneng West",
+    "__2": "2,440"
+  },
+  "71-31 Samochema": {
+    "__1": "Ngamiland West",
+    "__2": "1,149"
+  },
+  "70-22 : Sankuyo": {
+    "__1": "Ngamiland East",
+    "__2": 410
+  },
+  "72-09 : Satau": {
+    "__1": "Chobe",
+    "__2": 605
+  },
+  "TABLE 8": {
+    "__1": "",
+    "__2": ""
+  },
+  "54-13 Sebina": {
+    "__1": "Central Tutume",
+    "__2": "3,276"
+  },
+  "60-21 Sechele :": {
+    "__1": "North East",
+    "__2": 530
+  },
+  "11-37 : Sedibeng": {
+    "__1": "Barolong",
+    "__2": 708
+  },
+  "51-13 Sefhare": {
+    "__1": "Central Mahalapye",
+    "__2": "4,602"
+  },
+  "52-11 Sefophe": {
+    "__1": "Central Bobonong",
+    "__2": "6,062"
+  },
+  "10-19 : Segwagwa": {
+    "__1": "Ngwaketse",
+    "__2": "1,056"
+  },
+  "10-13 Seherelela": {
+    "__1": "Ngwaketse",
+    "__2": 723
+  },
+  "70-06 Sehithwa": {
+    "__1": "Ngamiland East",
+    "__2": "2,748"
+  },
+  "50-46 Sehunou": {
+    "__1": "Serowe Palapye",
+    "__2": "1,049"
+  },
+  "60-22 : Sekakangwe": {
+    "__1": "North East",
+    "__2": 946
+  },
+  "11-52 Sekhutlane": {
+    "__1": "Barolong",
+    "__2": 871
+  },
+  "12-03 Sekoma": {
+    "__1": "Ngwaketse West",
+    "__2": "1,190"
+  },
+  "71-30 Sekondomboro": {
+    "__1": "Ngamiland West",
+    "__2": 629
+  },
+  "51-37 Seleka": {
+    "__1": "Central Mahalapye",
+    "__2": "1,157"
+  },
+  "10-35 Selokolela": {
+    "__1": "Ngwaketse",
+    "__2": "1,610"
+  },
+  "10-32 Semane": {
+    "__1": "Ngwaketse",
+    "__2": 549
+  },
+  "70-30 : Semboyo": {
+    "__1": "Ngamiland East",
+    "__2": 412
+  },
+  "54-35 Semitwe": {
+    "__1": "Central Tutume",
+    "__2": 724
+  },
+  "52-06 Semolale": {
+    "__1": "Central Bobonong",
+    "__2": "1,288"
+  },
+  "54-05 Senete": {
+    "__1": "Central Tutume",
+    "__2": "2,440"
+  },
+  "60-23 : Senyawe": {
+    "__1": "North East",
+    "__2": "1,339"
+  },
+  "50-15 Seolwane": {
+    "__1": "Serowe Palapye",
+    "__2": "1,280"
+  },
+  "54-34 : Sepako": {
+    "__1": "Central Tutume",
+    "__2": 682
+  },
+  "71-14 : Sepopa": {
+    "__1": "Ngamiland West",
+    "__2": "2,283"
+  },
+  "31-07 Serinane": {
+    "__1": "Kweneng West",
+    "__2": 787
+  },
+  "71-01 Seronga": {
+    "__1": "Ngamiland West",
+    "__2": "2,674"
+  },
+  "50-01 Serowe": {
+    "__1": "Serowe Palapye",
+    "__2": "50,820"
+  },
+  "50-40 Serule": {
+    "__1": "Serowe Palapye",
+    "__2": "3,241"
+  },
+  "10-16 : Sese": {
+    "__1": "Ngwaketse",
+    "__2": "2,721"
+  },
+  "10-17 : Sesung": {
+    "__1": "Ngwaketse",
+    "__2": 752
+  },
+  "31-18 : Sesung": {
+    "__1": "Kweneng West",
+    "__2": "1,481"
+  },
+  "30-29 Shadishadi": {
+    "__1": "Kweneng East",
+    "__2": 928
+  },
+  "71-16 Shakawe": {
+    "__1": "Ngamiland West",
+    "__2": "6,693"
+  },
+  "51-10 Shakwe": {
+    "__1": "Central Mahalapye",
+    "__2": 976
+  },
+  "60-33 Shashe Bridge": {
+    "__1": "North East",
+    "__2": "1,095"
+  },
+  "54-29 Shashe - Mooke": {
+    "__1": "Central Tutume",
+    "__2": "3,380"
+  },
+  "54-27 Shashe / Semotswane": {
+    "__1": "Central Tutume",
+    "__2": "3,136"
+  },
+  "11-26 Sheep Farm": {
+    "__1": "Barolong",
+    "__2": 314
+  },
+  "70-03 Shorobe": {
+    "__1": "Ngamiland East",
+    "__2": "1,031"
+  },
+  "51-28 : Shoshong": {
+    "__1": "Central Mahalapye",
+    "__2": "9,678"
+  },
+  "40-10 Sikwane": {
+    "__1": "Kgatleng",
+    "__2": "1,466"
+  },
+  "60-24 : Siviya": {
+    "__1": "North East",
+    "__2": "1,289"
+  },
+  "30-30 : Sojwe": {
+    "__1": "Kweneng East",
+    "__2": "3,983"
+  },
+  "31-19 Sorilatholo": {
+    "__1": "Kweneng West",
+    "__2": 897
+  },
+  "90-14 : Struizendam": {
+    "__1": "Kgalagadi South",
+    "__2": 519
+  },
+  "31-12 Takatokwane": {
+    "__1": "Kweneng West",
+    "__2": "2,728"
+  },
+  "50-10 Tamasane": {
+    "__1": "Serowe Palapye",
+    "__2": "1,144"
+  },
+  "60-25 : Tati Siding": {
+    "__1": "North East",
+    "__2": "8,112"
+  },
+  "51-05 : Taupye": {
+    "__1": "Central Mahalapye",
+    "__2": 598
+  },
+  "51-25 Tewane": {
+    "__1": "Central Mahalapye",
+    "__2": 459
+  },
+  "50-29 Thabala": {
+    "__1": "Serowe Palapye",
+    "__2": "2,429"
+  },
+  "30-32 : Thamaga": {
+    "__1": "Kweneng East",
+    "__2": "21,471"
+  },
+  "60-26 : Themashanga": {
+    "__1": "North East",
+    "__2": "1,648"
+  },
+  "10-34 Tlhankane": {
+    "__1": "Ngwaketse",
+    "__2": 722
+  },
+  "11-02 Tlhareseleele": {
+    "__1": "Barolong",
+    "__2": 711
+  },
+  "30-13 : Tloaneng": {
+    "__1": "Kweneng East",
+    "__2": 868
+  },
+  "TABLE 9": {
+    "__1": "",
+    "__2": ""
+  },
+  "20-06 : Tlokweng": {
+    "__1": "South East",
+    "__2": "36,323"
+  },
+  "52-10 Tobane": {
+    "__1": "Central Bobonong",
+    "__2": "2,075"
+  },
+  "71-29 Tobere": {
+    "__1": "Ngamiland West",
+    "__2": 448
+  },
+  "54-23 Tonota": {
+    "__1": "Central Tutume",
+    "__2": "21,031"
+  },
+  "50-23 : Topisi": {
+    "__1": "Serowe Palapye",
+    "__2": "1,545"
+  },
+  "53-08 Toromoja": {
+    "__1": "Central Boteti",
+    "__2": 710
+  },
+  "70-04 : Toteng": {
+    "__1": "Ngamiland East",
+    "__2": 902
+  },
+  "60-37 : Toteng": {
+    "__1": "North East",
+    "__2": 291
+  },
+  "90-05 : Tsabong": {
+    "__1": "Kgalagadi South",
+    "__2": "8,939"
+  },
+  "60-27 : Tsamaya": {
+    "__1": "North East",
+    "__2": "2,387"
+  },
+  "70-05 : Tsao": {
+    "__1": "Ngamiland East",
+    "__2": "2,000"
+  },
+  "52-02 Tsetsebjwe": {
+    "__1": "Central Bobonong",
+    "__2": "4,393"
+  },
+  "31-13 : Tsetseng": {
+    "__1": "Kweneng West",
+    "__2": 397
+  },
+  "91-02 Tshane": {
+    "__1": "Kgalagadi North",
+    "__2": "1,020"
+  },
+  "60-28 Tshesebe": {
+    "__1": "North East",
+    "__2": "2,277"
+  },
+  "11-45 Tshidilamolomo": {
+    "__1": "Barolong",
+    "__2": 723
+  },
+  "50-26 : Tshimoyapula": {
+    "__1": "Serowe Palapye",
+    "__2": "1,626"
+  },
+  "54-43 Tshokatshaa": {
+    "__1": "Central Tutume",
+    "__2": 634
+  },
+  "52-03 Tshokwe": {
+    "__1": "Central Bobonong",
+    "__2": "1,070"
+  },
+  "10-31 Tshwaane *": {
+    "__1": "Ngwaketse",
+    "__2": 299
+  },
+  "53-07 Tsienyane / Rakops": {
+    "__1": "Central Boteti",
+    "__2": "6,396"
+  },
+  "10-08 : Tsonyane": {
+    "__1": "Ngwaketse",
+    "__2": 588
+  },
+  "80-03 Tsootsha": {
+    "__1": "Ghanzi",
+    "__2": "1,848"
+  },
+  "31-14 Tswaane": {
+    "__1": "Kweneng West",
+    "__2": 603
+  },
+  "11-39 : Tswaaneng": {
+    "__1": "Barolong",
+    "__2": 679
+  },
+  "11-17 : Tswagare / Lothoje / Lokalana": {
+    "__1": "Barolong",
+    "__2": 197
+  },
+  "11-12 Tswanyaneng": {
+    "__1": "Barolong",
+    "__2": 297
+  },
+  "71-25 Tubu": {
+    "__1": "Ngamiland West",
+    "__2": 483
+  },
+  "51-19 Tumasera": {
+    "__1": "Central Mahalapye",
+    "__2": "3,136"
+  },
+  "54-07 Tutume": {
+    "__1": "Central Tutume",
+    "__2": "17,528"
+  },
+  "91-11 : Ukwi": {
+    "__1": "Kgalagadi North",
+    "__2": 459
+  },
+  "90-12 : Vaalhoek": {
+    "__1": "Kgalagadi South",
+    "__2": 355
+  },
+  "60-39 Vukwi": {
+    "__1": "North East",
+    "__2": 369
+  },
+  "90-01 Werda": {
+    "__1": "Kgalagadi South",
+    "__2": "3,261"
+  },
+  "80-06 West Hanahai": {
+    "__1": "Ghanzi",
+    "__2": 662
+  },
+  "71-10 Xakao": {
+    "__1": "Ngamiland West",
+    "__2": "1,565"
+  },
+  "71-27 : Хаха": {
+    "__1": "Ngamiland West",
+    "__2": 492
+  },
+  "73-01 Xaxaba": {
+    "__1": "Ngamiland Delta",
+    "__2": 162
+  },
+  "53-16 : Xere": {
+    "__1": "Central Boteti",
+    "__2": 343
+  },
+  "71-32 : Xhauga": {
+    "__1": "Ngamiland West",
+    "__2": 767
+  },
+  "53-05 Xhumo": {
+    "__1": "Central Boteti",
+    "__2": "1,684"
+  },
+  "54-31 : Zoroga": {
+    "__1": "Central Tutume",
+    "__2": "1,358"
+  },
+  "91-09 : Zutswa": {
+    "__1": "Kgalagadi North",
+    "__2": 469
+  },
+  "60-29 Zwenshambe": {
+    "__1": "North East",
+    "__2": "1,943"
+  }
+}
